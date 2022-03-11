@@ -1,4 +1,5 @@
 # discord.computer
-"Discord on Drugs" (PC ONLY)
+"DisPump" (PC ONLY) (COMING SOON FOR MOBILE)
 
-Update info (in progress)
+---------------ABOUT---------------
+DisPump is a Chatting game in a Discord Format!
