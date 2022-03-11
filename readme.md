@@ -5,4 +5,4 @@
 DisPump is a Chatting game in a Discord Format!
 
 # Link (if needed)
-https://github.com/doubleyoulinks/discord.messages.com
+https://github.com/doubleyoulinks/dispump.game
